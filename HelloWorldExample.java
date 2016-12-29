@@ -1,7 +1,3 @@
-/*
-Java Hello World example.
-*/
- 
 public class HelloWorldExample{
  
   public static void main(String args[]){
@@ -14,5 +10,3 @@ public class HelloWorldExample{
   }
  
 }
- 
-/*
